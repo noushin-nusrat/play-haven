@@ -229,6 +229,43 @@
   .game-content-text{
     width: 350px;
   }
+  /* view the games section style */
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.section-container {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 50px;
+background: #FFF;
+
+}
+.box:hover {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 50px;
+background: #FFF;
+border: 1px solid #f948b2;
+color: #ff42a5;
+}
+
   
   
   

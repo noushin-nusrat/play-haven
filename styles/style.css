@@ -203,6 +203,32 @@
   .online-game-description {
     margin-top: 10px;
   } 
+  /* game trial style */
+  .game-trial-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+   
+  }
+  .game-content-img {
+    width: 634.833px;
+    height: 650px;
+  }
+  .game-content-text {
+    margin-top: 200px;
+  }
+  .game-content-text h3 {
+    font-size: 45px;
+    margin-bottom: 10px;
+  }
+  .small-img {
+    position: relative;
+    bottom: 250px;
+    right: 170px;
+  }
+  .game-content-text{
+    width: 350px;
+  }
   
   
   

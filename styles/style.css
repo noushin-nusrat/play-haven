@@ -24,7 +24,7 @@
   font-weight: 400;
 }
 
-/* navbar css start */
+/* navbar style*/
 .nav-container {
   display: flex;
   align-items: center;
@@ -74,9 +74,9 @@
   margin-left: 20px;
 }
 
-/* nav style end */
 
-/* banner section css start */
+
+/* banner section style*/
 .banner-container {
   display: flex;
   justify-content: space-around;
